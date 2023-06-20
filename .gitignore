@@ -1,0 +1,8 @@
+config.json
+*.txt
+!out.txt
+
+# ignore files that are too big
+spy_all
+stats.json
+markets.json
